@@ -1,0 +1,28 @@
+Doctor Who is a British science-fiction television programme produced by the BBC. The programme depicts the adventures of a Time Lord—a time-travelling humanoid alien known as the Doctor. He explores the universe in his TARDIS (acronym: Time and Relative Dimension in Space), a sentient time-travelling space ship. Its exterior appears as a blue British police box, which was a common sight in Britain in 1963 when the series first aired. Along with a succession of companions, the Doctor faces a variety of foes while working to save civilisations, help ordinary people, and right wrongs.
+
+William Hartnell - 1963-66
+Patrick Troughton - 1966-69
+Jon Pertwee - 1970-74
+Tom Baker - 1974-81
+Peter Davison - 1981-84
+Colin Baker - 1984-86
+Sylvester McCoy - 1987-96
+Paul McGann 1996
+Christopher Eccleston - 2005
+David Tennant - 2005-2010
+Matt Smith - 2010-2013
+Peter Capaldi - Present
+
+Tardis Image
+<img src='http://www.zetacity.com/insidethetardis/images/tardis.jpg' />
+
+Link to Dr. Who on BBC
+<a href="http://www.bbc.co.uk/programmes/b006q2x0">
+
+Link to companions
+<a href="http://en.wikipedia.org/wiki/Companion_(Doctor_Who)" target="_blank">
+Billie Piper Image
+<img src="http://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Billie_Piper.jpg/220px-Billie_Piper.jpg" />
+
+Matt Smith image
+<img src='http://ichef.bbci.co.uk/images/ic/224x126/p016hfj6.jpg' />
